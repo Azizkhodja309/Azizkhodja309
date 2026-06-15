@@ -18,7 +18,7 @@
 ```typescript
 const azizkhodja = {
   name: "Azizkhodja",
-  age: 20,
+  age: new Date().getFullYear() - 2005 - (new Date() < new Date(new Date().getFullYear(), 8, 30) ? 1 : 0),
   role: "Full Stack Developer",
   location: "Uzbekistan 🇺🇿",
   focus: ["Backend Development", "Scalable Systems", "Clean Architecture"],
@@ -82,23 +82,6 @@ const azizkhodja = {
 
 ---
 
-## 🚀 Featured Projects
-
-> 🔧 *Replace the placeholders below with your actual projects*
-
-<div align="center">
-
-| Project | Description | Tech Stack | Links |
-|---------|------------|-----------|-------|
-| 🚛 **Logistics Platform** | *[Replace with your project description]* | Java · Spring Boot · PostgreSQL · Docker | [Repo](#) · [Demo](#) |
-| 💼 **CRM System** | *[Replace with your project description]* | NestJS · TypeScript · Prisma · PostgreSQL | [Repo](#) · [Demo](#) |
-| 🛒 **SaaS Product** | *[Replace with your project description]* | Next.js · React · Tailwind CSS · Node.js | [Repo](#) · [Demo](#) |
-| 🏗️ **Project 4** | *[Replace with your project description]* | *[Tech Stack]* | [Repo](#) · [Demo](#) |
-
-</div>
-
----
-
 ## 📈 Activity Graph
 
 <div align="center">
@@ -111,18 +94,13 @@ const azizkhodja = {
 
 ## 📬 Contact Me
 
-> 💬 *Replace the placeholders below with your actual contact info*
-
 <div align="center">
 
-<!-- Replace your-email@example.com with your actual email -->
-[![Email](https://img.shields.io/badge/Email-your--email%40example.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@example.com)
+[![Email](https://img.shields.io/badge/Email-azizxojaazimxojayev81%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:azizxojaazimxojayev81@gmail.com)
 
-<!-- Replace your_telegram_username with your actual Telegram handle -->
-[![Telegram](https://img.shields.io/badge/Telegram-%40your__telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/your_telegram_username)
+[![Telegram](https://img.shields.io/badge/Telegram-%40azimxojayev__azizxoja-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/azimxojayev_azizxoja)
 
-<!-- Replace your-linkedin-username with your actual LinkedIn profile -->
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-your--linkedin-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-linkedin-username)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Azizkhan-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/azizkhan-l-987b69365/)
 
 [![GitHub](https://img.shields.io/badge/GitHub-Azizkhodja309-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Azizkhodja309)
 
