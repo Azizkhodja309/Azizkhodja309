@@ -18,7 +18,7 @@
 ```typescript
 const azizkhodja = {
   name: "Azizkhodja",
-  age: new Date().getFullYear() - 2005 - (new Date() < new Date(new Date().getFullYear(), 8, 30) ? 1 : 0),
+  age: 20,
   role: "Full Stack Developer",
   location: "Uzbekistan 🇺🇿",
   focus: ["Backend Development", "Scalable Systems", "Clean Architecture"],
