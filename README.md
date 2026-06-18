@@ -17,7 +17,7 @@
 
 ```typescript
 const azizkhodja = {
-  name: "Azizkhodja",
+  fullName: "Azimxo'jayev Azizxo'ja",
   age: 20,
   role: "Full Stack Developer",
   location: "Uzbekistan 🇺🇿",
